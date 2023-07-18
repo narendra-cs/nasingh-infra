@@ -1,0 +1,7 @@
+-c 'https://raw.githubusercontent.com/apache/airflow/constraints-2.2.2/constraints-3.7.txt' 
+pypd
+SQLAlchemy
+Jinja2
+apache-airflow-providers-cncf-kubernetes==2.1.0
+apache-airflow[slack]
+apache-airflow[ssh]
